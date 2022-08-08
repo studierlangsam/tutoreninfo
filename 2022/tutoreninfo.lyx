@@ -1,0 +1,2030 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass scrartcl
+\begin_preamble
+\setlist[itemize,1]
+{itemsep=0.2em,
+parsep=0pt,
+partopsep=0pt,
+topsep=0.3em}
+\setlist[itemize,2]
+{itemsep=0.1em,
+parsep=0pt,
+partopsep=0pt,
+topsep=0.1em}
+\usepackage{scrlayer-scrpage}
+\pagestyle{scrheadings}
+\chead{Tutoreninformation Studier Langsam}
+
+\RedeclareSectionCommand[
+  beforeskip=.7\baselineskip,
+  afterskip=.1\baselineskip]{subsection}
+\addtokomafont{subsection}{\large}
+\setlength{\parindent}{0pt}
+
+\RedeclareSectionCommand[
+  afterskip=.6\baselineskip]{section}
+\end_preamble
+\use_default_options true
+\begin_modules
+enumitem
+\end_modules
+\maintain_unincluded_children false
+\language ngerman
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "lmodern" "default"
+\font_sans "lmss" "default"
+\font_typewriter "lmtt" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 10
+\spacing single
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 2.3cm
+\topmargin 2.8cm
+\rightmargin 2.3cm
+\bottommargin 4cm
+\headheight 0cm
+\headsep 1cm
+\columnsep 1cm
+\secnumdepth -2
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style german
+\dynamic_quotes 0
+\papercolumns 2
+\papersides 1
+\paperpagestyle default
+\bullet 0 0 15 -1
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+\begin_inset VSpace -1em
+\end_inset
+
+Tutoreninformation Studier Langsam
+\begin_inset VSpace -0.8em
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Seminarräume
+\end_layout
+
+\begin_layout Standard
+Wir haben die Seminarräume 
+\emph on
+-1.012 
+\emph default
+(für »Turing«) und 
+\emph on
+-1.013
+\emph default
+ (für »Lovelace«) im Mathebau (Gebäude 20.30).
+\end_layout
+
+\begin_layout Section
+Montag
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+
+\family sans
+\size footnotesize
+\begin_inset Tabular
+<lyxtabular version="3" rows="6" columns="3">
+<features tabularvalignment="middle" tabularwidth="100col%">
+<column alignment="left" valignment="top" width="10col%">
+<column alignment="left" valignment="top" width="45col%">
+<column alignment="left" valignment="top" width="35col%">
+<row bottomspace="0.3em">
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+9:00
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Begrüßungsveranstaltung
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Audimax
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row bottomspace="0.3em">
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+9:30
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Treffen der Tutoren
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+neben dem Audimax
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row bottomspace="0.3em">
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+10:00
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Tutorenvorstellung
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Audimax
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row bottomspace="0.3em">
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+…
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Kennenlernen, Pizza essen
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Innenhof & Seminarräume
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row bottomspace="0.3em">
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+15:00
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Campus-Tour
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row bottomspace="0.3em">
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+19:00
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Abendessen
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Oxford Pub (Turing), Pfannestiel (Lovelace)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Begrüßung
+\end_layout
+
+\begin_layout Standard
+Fabian, Pablo und Jonas S.
+ kaufen Kekse, Getränke (Apfelsaftschorle, Sprudel), Servietten, Kreppband,
+ Eddings und Pappteller und -becher für das Pizzaessen.
+ Laura nimmt der Fachschaft die Seminarräume ab.
+ Alle vier treffen sich am Mathebau und tragen den Einkäufe in die Räume.
+ Sie bringen Kekse und Schild an den Audimax.
+\end_layout
+
+\begin_layout Standard
+Die Begrüßungsveranstaltung findet um 9:00 Uhr im Audimax statt.
+ Wir dürfen U-Boote sein (müssen aber nicht!), sollten dann aber in der
+ Rolle des Erstis bleiben.
+ Falls es nicht genug Platz für alle Erstis gibt, sollten die U-Boote natürlich
+ wieder gehen (Codewort dafür ist 
+\begin_inset Quotes gld
+\end_inset
+
+InWis raus
+\begin_inset Quotes grd
+\end_inset
+
+).
+ Um 9:30 Uhr treffen wir uns an dem uns zugewiesenen Platz hinter dem Audimax.
+ Um 10:00 Uhr beginnt die Vorstellung der Gruppen (Svenja, Moritz und Joshua
+ stellen vor).
+ Wir sind als siebtes dran, nach Lila Pause.
+ Anschließend gehen alle (nur die angemeldeten!) Tutoren gemeinsam auf die
+ Bühne.
+\end_layout
+
+\begin_layout Standard
+Nach der Veranstaltung warten Valentin, Nadine (Moritz), Titia und Svenja
+ (offiziell nur eine Person) mit Keksen und Schild am Nordeingang des Audimax
+ (am uns von der Fachschaft zugewiesenen Ort), um Erstis aufzugabeln und
+ zum Rest der Gruppe zu bringen.
+ Johannes und Johanna finden einen Platz für die Kennenlernspiele und teilen
+ diesen per Slack mit.
+ Wenn alle da sind, laufen wir geschlossen zu den gefundenen Plätze.
+ Falko zählt die Erstis.
+ Laura und Nadine ordern möglichst früh entsprechend viel Pizza für ca.
+ 13:30 Uhr (ggf.
+ später).
+\end_layout
+
+\begin_layout Standard
+Erstis während des Wartens möglichst begrüßen und 
+\emph on
+in Gespräche einbinden
+\emph default
+.
+\end_layout
+
+\begin_layout Subsection
+Kennenlernen
+\end_layout
+
+\begin_layout Standard
+Wir erklären, dass es zwei Gruppen gibt und teilen die Erstis enstprechend
+ auf.
+ Es darf noch beliebig die Gruppe gewechselt werden.
+ Die Gruppen teilen sich auf die verschiedenen Plätze auf.
+ Die Erstis schreiben sich Namensschilder.
+ Wir spielen wir die üblichen Kennenlernspiele: 
+\end_layout
+
+\begin_layout Itemize
+In Ecken stellen
+\end_layout
+
+\begin_layout Itemize
+Sortiert aufstellen
+\end_layout
+
+\begin_layout Itemize
+Bingo (finde Menschen, mit bestimmter Eigenschaft)
+\end_layout
+
+\begin_layout Itemize
+Nach Bedarf:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Atomspiel
+\end_layout
+
+\begin_layout Itemize
+gordischer Knoten
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+Johanna und Johannes leiten die Spiele.
+\end_layout
+
+\begin_layout Standard
+Kurz bevor die Pizza kommt suchen wir uns einen Platz zum Pizzaessen.
+ Es folgen erste Infos:
+\end_layout
+
+\begin_layout Itemize
+Programm, Kontakt
+\end_layout
+
+\begin_layout Itemize
+Fahrräder mitbringen!
+\end_layout
+
+\begin_layout Itemize
+Mittwoch Morgen Teller, Tasse und Besteck mitbringen.
+\end_layout
+
+\begin_layout Itemize
+Cocktailabend Freitag
+\end_layout
+
+\begin_layout Itemize
+Es gibt Erstishirts (Verkauf bei Grillen durch Fachschaft)
+\end_layout
+
+\begin_layout Itemize
+Kleidung für Olympia
+\end_layout
+
+\begin_layout Itemize
+Bild hochladen für KIT-Card
+\end_layout
+
+\begin_layout Standard
+Es folgt das Pizzaessen.
+ Luca, Michael, Johannes und Wendy nehmen nebenbei die Daten (Name, Email,
+ Cocktailabend, Pizza, Einverständnis die Daten in Airtable zu speichern)
+ der Erstis in Airtable auf und sammeln das Geld ein.
+ Die Zeit bis zur Campus-Tour wird mit Gesprächen und wenn nötig Activity
+ überbrückt.
+ Preise für die Erstis:
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="3" columns="2">
+<features tabularvalignment="middle">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Pizza & Sonstiges
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5
+\begin_inset space \thinspace{}
+\end_inset
+
+€ + 4
+\begin_inset space \thinspace{}
+\end_inset
+
+€
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Cocktailabend mit/ohne Alkohol
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+10
+\begin_inset space \thinspace{}
+\end_inset
+
+€ / 7
+\begin_inset space \thinspace{}
+\end_inset
+
+€
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Erstishirt bei Fachschaft
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5
+\begin_inset space \thinspace{}
+\end_inset
+
+€
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Campus-Tour
+\end_layout
+
+\begin_layout Standard
+Zur Campus-Tour werden die Erstis gleichmäßig in Gruppen aufgeteilt.
+ Jede Gruppe soll von mindestens 2 Tutoren geführt werden.
+ Die Erstis können ihre Taschen in den Seminarräumen lassen, aber nach der
+ Führung und vor dem Abendessen wieder abholen.
+\end_layout
+
+\begin_layout Standard
+Der Anfang der Tour ist für jede Gruppe gleich:
+\end_layout
+
+\begin_layout Description
+15:00 Einteilung in Gruppen
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+setlength{
+\backslash
+itemsep}{0pt}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Jede Gruppe sollte das folgende Programm, aber 
+\emph on
+in unterschiedlicher Reihenfolge
+\emph default
+ absolvieren:
+\end_layout
+
+\begin_layout Itemize
+Infobau
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Abgabekästen
+\end_layout
+
+\begin_layout Itemize
+Info-Fachschaft
+\end_layout
+
+\begin_layout Itemize
+Info Bib mit Gruppenräumen
+\end_layout
+
+\begin_layout Itemize
+Atis- Accounts machen
+\end_layout
+
+\begin_layout Itemize
+Seminarräume
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Hörsaal am Fasanengarten
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+HM 1 für Infos und LA 1 für Infos(freitags)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Audimax
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+GBI und Programmieren
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Mensa
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Karte kodieren
+\end_layout
+
+\begin_layout Itemize
+Linien-System vorstellen
+\end_layout
+
+\begin_layout Itemize
+Auf Cafeteria hinweisen 
+\end_layout
+
+\begin_layout Itemize
+Anekdotisch: Aufgrund von Stromausfall gab es im letzten Semester ein paar
+ mal Essen umsonst
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Bibliothek
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Lernräume
+\end_layout
+
+\begin_layout Itemize
+Führungen in der ersten Semesterwoche (dauer ca.
+ 30 min Montags bis Freitags 10-14 Uhr)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+AKK
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Kaffee 
+\end_layout
+
+\begin_layout Itemize
+Günstiges Bier und Glühwein 
+\end_layout
+
+\begin_layout Itemize
+Bar schichten machen/mithelfen 
+\end_layout
+
+\begin_layout Itemize
+Partys/Schlonze 
+\end_layout
+
+\begin_layout Itemize
+Alternativ: AKK Führung (noch nicht angefragt) 
+\end_layout
+
+\begin_layout Itemize
+o-Phest findet hier statt
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Daimler und Benz HS
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Ana 1 und La 1 Mathe(Daimeler) und La 1 mittwochs für infos(Benz)
+\end_layout
+
+\begin_layout Itemize
+es ist egal was man hört nur richtige Klausur schreiben 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Hertz
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+IAM für die Mathematiker die nicht Programmieren hören
+\end_layout
+
+\begin_layout Itemize
+Uni Kino
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Studienbüro
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+falls noch was zu klären ist geht man am Dienstag mit ein paat Tutoren noch
+ hin
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Mathebau
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Abgabekästen
+\end_layout
+
+\begin_layout Itemize
+FSM 
+\end_layout
+
+\begin_layout Itemize
+Seminarräume und Lernecken 
+\end_layout
+
+\begin_layout Itemize
+Räume für studneten sind nach innen (falls ihr nach außen geht für ein Tutorium
+ z.b.
+ seid ihr falsch)
+\end_layout
+
+\begin_layout Itemize
+Anekdotisch im 3.
+ OG sind die Germanisten
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+SCC
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Hinweis: Führung am Freitag um 14:30 Uhr
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Gaede Hörsal
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+IAM (für Mathe die nicht proggen machen
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Gerthsen Bei Bedarf
+\end_layout
+
+\begin_layout Itemize
+Neue Chemie
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Ana 1
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Abendessen
+\end_layout
+
+\begin_layout Standard
+Wir nehmen nicht am Grillen der Fachschaft teil.
+ Für das Abendessen ist ab 19:00 im Oxford Pub für Turing von Moritz und
+ im Pfannestiel für Lovelace von Joshua reserviert.
+ Am Ende sollten wir uns sagen lassen, wie viel Geld wir insgesamt ausgegeben
+ haben, dies für kommende Reservierungen abschätzen können.
+\end_layout
+
+\begin_layout Standard
+David geht um 18:00 zum Treffen der Fachschaft (HS -101).
+\end_layout
+
+\begin_layout Section
+Dienstag
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\begin_inset Tabular
+<lyxtabular version="3" rows="5" columns="3">
+<features tabularvalignment="middle" tabularwidth="100col%">
+<column alignment="left" valignment="top" width="10col%">
+<column alignment="left" valignment="top" width="45col%">
+<column alignment="left" valignment="top" width="35col%">
+<row bottomspace="0.3em">
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+10:00
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Formalitäten / KIT-Karten
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Studentenhaus
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row bottomspace="0.3em">
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+12:15
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Mittagessen
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Voglebräu (Turing), Oxford Pub (Lovelace)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row bottomspace="0.3em">
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+14:00
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+FBI
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Treffpunkt für Nachzügler: AKK 13:30
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row bottomspace="0.3em">
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+16:00
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Lago & Park
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row bottomspace="0.3em">
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+18:00
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+O-Phest
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+AKK
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Formalitäten
+\end_layout
+
+\begin_layout Standard
+Alle ohne KIT-Karte treffen sich um 10:00 am Studentenhaus.
+ Alexander und Wendy bringen alle, die noch Formalitäten zu klären haben,
+ zum Studienbüro.
+ Danach wetterabhängig Überbrücken der Zeit bis Mittagessen draußen oder
+ im Seminarraum.
+\end_layout
+
+\begin_layout Subsection
+FBI
+\end_layout
+
+\begin_layout Standard
+Während des Mittagessens werden für alle FBIs Menschen gefunden, die uns
+ benachrichtigen, wenn sie vorbei sind.
+ Nach dem Mittagessen gehen wir geschlossen zu den FBIs.
+ Treffpunkt für alle, die direkt zur FBI kommen, ist vor dem Audimax.
+ Diese Erstis werden von Fabian, Louis, Laura, Wendy, Falko und dem Banner
+ abgeholt.
+ Während der FBI treffen sich die Tutoren in Seminarraum -1.012.
+ Hörsäle für die FBI:
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="5" columns="2">
+<features tabularvalignment="middle">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Bachelor Informatik
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Daimler / Neue Chemie
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Master Informatik
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+MTI 30.33
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Bachelor Mathematik
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+NTI 30.10
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Master Mathematik
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+EAS
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Lehramt Mathematik & Informatik
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Fachschaftbespaßung am Infobau
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Lago & Park
+\end_layout
+
+\begin_layout Standard
+Nach der FBI dürfen die Erstis entscheiden, ob sie zum Lago oder in den
+ Park gehen wollen.
+ In den Park werden die Erstis von Fabian und Louis geführt.
+ Sie nehmen eine Kasse mit.
+ Zum Lago fahren wir in zwei Gruppen, Bahn- und Radfahrer.
+ Die Radfahrer werden von Luca, und Johannes die Bahnfahrer von Max und
+ Christoph koordiniert.
+ Sie nehmen eine Kasse mit.
+ Laura und Falko warten auf Nachzügler und kommen mit der Bahn nach.
+ Im Lago sind 7 Bahnen auf die Namen Yi reserviert.
+ Wir sollten die Bahnen ausnutzen.
+ Man kann auch gut in bestehende Spiele einsteigen.
+ Christoph und Max koordinieren die Spiele und sammeln das Geld ein.
+ Im Lago organisiert Wendy das Frühstück (inkl.
+ Kaffee, Tee).
+ Im Park tut das Joshua.
+ Die Tutoren legen besonderen Wert darauf, die Erstis möglichst noch mit
+ zum O-Phest zu kriegen.
+\end_layout
+
+\begin_layout Standard
+Tipp an die Erstis: Kauft nicht im Lago, sondern am oder vor dem O-Phest
+ Essen.
+\end_layout
+
+\begin_layout Section
+Mittwoch
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\begin_inset Tabular
+<lyxtabular version="3" rows="4" columns="3">
+<features tabularvalignment="middle" tabularwidth="100col%">
+<column alignment="left" valignment="top" width="10col%">
+<column alignment="left" valignment="top" width="45col%">
+<column alignment="left" valignment="top" width="35col%">
+<row bottomspace="0.3em">
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+09:30
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Gemeinsames Frühstück
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Seminarraum
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row bottomspace="0.3em">
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+11:00
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+O-Rallye
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Campus, Zentrale im Seminarraum
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row bottomspace="0.3em">
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+11:30
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Lehramtinformation
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Engelbert-Arnold-HS 11.10
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row bottomspace="0.3em">
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+20:00
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Kneipentour
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+TP Marktplatz (Turing), Europaplatz (Lovelace)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Gemeinsames Frühstück
+\end_layout
+
+\begin_layout Standard
+Wir treffen uns mit allen interessierten Erstis ab 9:30 Uhr zum Frühstücken
+ im Seminarraum.
+\end_layout
+
+\begin_layout Standard
+160 Brötchen werden von Laura organisiert.
+ Jonas, Falko, Johannes und Joshua bringen Waffeleisen mit.
+ Moritz, Svenja, Luca und Joshua bringen Waffelteig mit.
+ Belag bringen die Erstis mit.
+ Peter und Philip bringen einen Wasserkocher und Titia und Johanna eine
+ French-Press-Kanne mit.
+\end_layout
+
+\begin_layout Subsection
+O-Rallye
+\end_layout
+
+\begin_layout Standard
+Es wird angekündigt, dass Donnerstag Abend ein Spieleabend stattfinden wird
+ und Erstis Spiele mitbringen können.
+\end_layout
+
+\begin_layout Standard
+Die Fragebögen für die O-Rallye werden von Moritz in der Fachschaft abgeholt
+ und dann an die Erstis (zur Selbstorganisation) übergeben.
+ Es sollten immer Tutoren für Rückfragen o.ä.
+ im Seminarraum sein.
+ Auf Atis-Accounts hinweisen.
+ Die Lehrämtler werden auf ihre Information hingewiesen (entsprechende Aufgaben
+ übernehmen).
+ Auf Kneipentour am Abend hinweisen.
+\end_layout
+
+\begin_layout Subsection
+Lehramtinformation
+\end_layout
+
+\begin_layout Standard
+Alle Lehramt-Studenten werden von Moritz zur Information gebracht und ggf.
+ auch wieder abgeholt.
+\end_layout
+
+\begin_layout Subsection
+Kneipentour
+\end_layout
+
+\begin_layout Standard
+Für die Kneipentour treffen sich Turing am Marktplatz und Lovelace am Europaplat
+z.
+ Wir bilden Gruppen und verteilen uns auf die Lokale.
+ Geeignete Kneipen sind:
+\end_layout
+
+\begin_layout Itemize
+Zero (heiße Schokolade, Cocktails)
+\end_layout
+
+\begin_layout Itemize
+Scruffys (irisches Bier)
+\end_layout
+
+\begin_layout Itemize
+Marktlücke (Prosecco :/ etc)
+\end_layout
+
+\begin_layout Itemize
+Brauhaus (hausgemachtes Bier)
+\end_layout
+
+\begin_layout Itemize
+Carlos Cocktailsbar (Cocktails, duh!)
+\end_layout
+
+\begin_layout Itemize
+Zapfkönig (Bier zum Selbstzapfen)
+\end_layout
+
+\begin_layout Itemize
+Kap (Wein, Cocktails)
+\end_layout
+
+\begin_layout Itemize
+Phono (Craftbier, Cocktails)
+\end_layout
+
+\begin_layout Standard
+Danach wird nach Belieben in andere Lokale gewechselt (Stövchen?) und die
+ Gruppen können zusammengeführt werden.
+ Das wechseln und der weitere Verlauf wird engmaschig per Chat koordiniert.
+ Wir versuchen im Shotz zu enden.
+ 
+\end_layout
+
+\begin_layout Section
+Donnerstag
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\begin_inset Tabular
+<lyxtabular version="3" rows="3" columns="3">
+<features tabularvalignment="middle" tabularwidth="100col%">
+<column alignment="left" valignment="top" width="10col%">
+<column alignment="left" valignment="top" width="45col%">
+<column alignment="left" valignment="top" width="35col%">
+<row bottomspace="0.3em">
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+11:00
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Brunch
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Café Emaille (Turing), Café Bleu (Lovelace)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row bottomspace="0.3em">
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+13:30
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+O-Lympia
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Forum
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row bottomspace="0.3em">
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+20:00
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Spieleabend
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Seminarraum
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Brunch
+\end_layout
+
+\begin_layout Standard
+Es ist auf den Namen Merker für je 40 Personen reserviert.
+\end_layout
+
+\begin_layout Subsection
+O-Lympia
+\end_layout
+
+\begin_layout Standard
+Um 13:30 meldet Moritz die Anzahl unserer Erstis bei der O-Lympia-Orga an.
+ Alle anderen kommen um kurz vor 13:30 zum Forum.
+ Als Ausweichprogramm bieten wir Klettern im DAV, Kino, Schwimmen und Spiele
+ im Z10 an.
+ 
+\end_layout
+
+\begin_layout Subsection*
+Spieleabend
+\end_layout
+
+\begin_layout Standard
+Wir treffen uns um 20:00 Uhr in den Seminarräumen zum Spieleabend.
+ Fabian und Pablo besorgen Knabberzeug und ggf.
+ Getränke.
+ Tutoren bringen Spiele mit (siehe Airtable).
+ Eventuell Ausklingen des Abends in einer Bar.
+\end_layout
+
+\begin_layout Section
+Freitag
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+
+\family sans
+\size footnotesize
+\begin_inset Tabular
+<lyxtabular version="3" rows="4" columns="3">
+<features tabularvalignment="middle" tabularwidth="100col%">
+<column alignment="left" valignment="top" width="10col%">
+<column alignment="left" valignment="top" width="45col%">
+<column alignment="left" valignment="top" width="35col%">
+<row bottomspace="0.3em">
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+11:30
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Abschlussveranstaltung
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+HSaF
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row bottomspace="0.3em">
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+12:30
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Mittagessen
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Mensa
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row bottomspace="0.3em">
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+14:30
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+SCC-Führung
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+SCC
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row bottomspace="0.3em">
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+20:00
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Cocktailabend
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+K1-Bar
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph
+Seminarräume
+\end_layout
+
+\begin_layout Standard
+Svenja, Wendy, Nadine, Luca und Joshua kommen um 11:00 Uhr zum Aufräumen
+ der Seminarräume und Abnahme durch die Fachschaft.
+\end_layout
+
+\begin_layout Subsection
+Abschlussveranstaltung
+\end_layout
+
+\begin_layout Standard
+Jonhannes und Christoph betreuen.
+ Treffpunkt ist vor dem HSaF.
+\end_layout
+
+\begin_layout Subsection
+Mensa & Park
+\end_layout
+
+\begin_layout Standard
+Wir gehen gemeinsam mit unseren Erstis in der Mensa essen.
+ Einige müssen vermutlich noch ihre Karte kodieren und aufladen.
+\end_layout
+
+\begin_layout Standard
+Nach dem Mittagessen gehen wir in den Schlossgarten.
+\end_layout
+
+\begin_layout Subsection
+SCC-Führung
+\end_layout
+
+\begin_layout Standard
+Wir haben zwei Führungen, eine um 14:30 Uhr und eine um 15:00 Uhr.
+ Je nach Interesse verwenden wir nur einen oder beide.
+ Joshua und Laura betreuen.
+\end_layout
+
+\begin_layout Subsection
+Cocktailabend
+\end_layout
+
+\begin_layout Standard
+Teilnahme nur nach Anmeldung bis Donnerstag.
+ Detaillierte Planung erfolgt über entsprechenden Slack-Kanal.
+ Die für den Einkauf zuständigen Tutoren gehen Freitagvormittag in die Metro.
+ Die Vorbereitung beginnt ab 17 Uhr, wir können ab ca.
+ 15:30 in die Bar.
+ Tutoren der ersten Schicht sind ab 19:00 da.
+ Die letzte Schicht bleibt bis zum Schluss und räumen im Anschluss alles
+ auf, das in der Nacht aufgeräumt werden muss.
+ Schichtplan wird auf Airtable geführt.
+ Titia und Peter bringen Erstis vom Infobau zur Bar.
+ Auf dem Hadiko-Gelände gibt es Hinweiszettel.
+\end_layout
+
+\begin_layout Section
+Samstag
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+
+\family sans
+\size footnotesize
+\begin_inset Tabular
+<lyxtabular version="3" rows="1" columns="3">
+<features tabularvalignment="middle" tabularwidth="100col%">
+<column alignment="left" valignment="top" width="10col%">
+<column alignment="left" valignment="top" width="45col%">
+<column alignment="left" valignment="top" width="35col%">
+<row bottomspace="0.3em">
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+10:00
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Mädelsbrunch
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family sans
+\size footnotesize
+Mathebau
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Mädels-Brunch
+\end_layout
+
+\begin_layout Standard
+Findet statt.
+ Laura zählt alle Teilnehmerinnen und meldet sie bis Donnerstag an.
+ Laura betreut.
+\end_layout
+
+\end_body
+\end_document
