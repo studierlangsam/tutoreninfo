@@ -12,6 +12,7 @@
 \usepackage{textcomp}
 \usepackage{enumitem}
 \usepackage{setspace}
+\usepackage{tabularx}
 \usepackage[unicode=true,pdfusetitle,
  bookmarks=true,bookmarksnumbered=false,bookmarksopen=false,
  breaklinks=false,pdfborder={0 0 0},pdfborderstyle={},backref=false,colorlinks=false]
@@ -67,7 +68,14 @@ topsep=0.1em}
 
 \section{Räume und Leute}
 
-% TODO: Tabelle mit Gruppenaufteilung
+\renewcommand\tabularxcolumn[1]{m{#1}}
+\begin{tabularx}{\columnwidth}[H]{l|X}
+    Euler & \textbf{Jonas$^2$}, \textbf{Katharina}, Louis, Tamira, Sarah, Leo, Jens, Cián, Johanna, Yannick, Paul L., Piotr \\
+    \hline
+    Lovelace & \textbf{Alina}, \textbf{Linus}, Laura, Max, Lea, Deborah, Jonas$^1$, Jonathan, Florian B., Anh, Simon \\
+    \hline
+    Turing & \textbf{Dominik}, \textbf{Nadine}, Linda, Karina, Falko, Luca, Peter, Paul Z., Jan-Arne, Leon, Florian G. \\
+\end{tabularx}
 
 \section{Allgemeine Informationen}
 
