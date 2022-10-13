@@ -234,3 +234,4 @@ config.tex
 .vscode
 
 !**/images/*
+.un~
