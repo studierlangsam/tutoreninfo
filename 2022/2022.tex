@@ -15,7 +15,7 @@
 \usepackage{tabularx}
 \usepackage{multicol}
 \usepackage{graphicx}
-\usepackage[dvipsnames,svgnames,x11names,hyperref]{xcolor}
+\usepackage{pdfpages}
 \usepackage[unicode=true,pdfusetitle,
  bookmarks=true,bookmarksnumbered=false,bookmarksopen=false,
  breaklinks=false,pdfborder={0 0 0},pdfborderstyle={},backref=false,colorlinks=true]
@@ -572,7 +572,11 @@ Festes schuhwerk wird empfohlen, ist aber nicht zwingend notwendig.
 Erzählt euren Erstis gern von dem Angebot, bei Interesse wendet euch an Paul oder Yannick, damit sie einen Überblick über die Teilnehmerzahl haben.
 
 \end{multicols}
-\label{LastPage}
-\end{document}
 
-% TODO zum rum schicken hängen wir einfach den Wochenplan noch hinten dran
+\newpage
+\KOMAoptions{paper=landscape,pagesize}
+\recalctypearea
+\label{LastPage}
+\includepdf[pages=-]{./2022/WOchenplan Studier Langsam.pdf}
+
+\end{document}
