@@ -16,7 +16,7 @@ jobs:
   gather_tex_files:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - id: files
         run: |
           IFS=$'\n' files=($(find . -name '*.tex'))
@@ -41,7 +41,7 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Tex2PDF
         uses: xu-cheng/latex-action@v2
